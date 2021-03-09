@@ -141,7 +141,7 @@ PrefabInstance:
     - target: {fileID: -8679921383154817045, guid: 621fac16f10506e4ab378986e9a03147,
         type: 3}
       propertyPath: m_LocalPosition.z
-      value: 22
+      value: 19.48
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 621fac16f10506e4ab378986e9a03147,
         type: 3}
@@ -1165,11 +1165,11 @@ MonoBehaviour:
   carInService: {fileID: 0}
   carExitPlace: {fileID: 903346710}
   serviceRateAsCarsPerHour: 400
-  interServiceTimeInHours: 0
+  interServiceTimeInHours: 0.016
   generateServices: 1
   minInterServiceTimeInSeconds: 3
   maxInterServiceTimeInSeconds: 30
-  serviceIntervalTimeStrategy: 2
+  serviceIntervalTimeStrategy: 0
 --- !u!114 &1741770769
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1281,7 +1281,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1765884325}
   m_LocalRotation: {x: 0, y: 1, z: 0, w: 0}
-  m_LocalPosition: {x: 0, y: 1.5, z: 20.9}
+  m_LocalPosition: {x: 0, y: 10.005, z: 22.68}
   m_LocalScale: {x: 12.563663, y: 3, z: 3}
   m_Children: []
   m_Father: {fileID: 0}
