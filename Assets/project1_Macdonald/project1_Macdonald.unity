@@ -658,8 +658,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fcf6b73ae4dc93b4dafe14dfc1990ec1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  carPrefab: {fileID: 3298508684243391860, guid: ce0cab47d9abd6749997c64d7b70c378,
-    type: 3}
+  carPrefab: {fileID: 1646981259178978, guid: 0ae65270c30153049ab49eb3ebf070d6, type: 3}
   carSpawnPlace: {fileID: 925813516}
   arrivalRateAsCarsPerHour: 30
   interArrivalTimeInHours: 0.333
